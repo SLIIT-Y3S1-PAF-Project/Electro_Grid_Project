@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.Electro_Grid_Project</groupId>
+  <artifactId>Electro_Grid_Project</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>Power_Generator_Service</module>
+  	<module>Billing_Service</module>
+  	<module>Customer_Service</module>
+  	<module>Schedule_Service</module>
+  	<module>Branch_Service</module>
+  	<module>New_Connection_Service</module>
+  </modules>
+</project>
+

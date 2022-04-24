@@ -225,7 +225,7 @@ public class PowerGenerator {
 	 } 
 	
 	
-	/*public String login(String username, String password) {
+	public String login(String username, String password) {
 		String output = null;
 		try
 		{
@@ -261,6 +261,6 @@ public class PowerGenerator {
 		}
 			
 		return output;
-	}*/
+	}
 
 }

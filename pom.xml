@@ -11,8 +11,6 @@
   	<module>Schedule_Service</module>
   	<module>Branch_Service</module>
   	<module>New_Connection_Service</module>
-  	<module>Power_Generator_Services</module>
-  	<module>Power_Generators_Service</module>
-  </modules>
+    </modules>
 </project>
 
